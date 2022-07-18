@@ -7,7 +7,7 @@
 ## Usage
 
 ### 选择一：使用预编译的exe文件
-在[Release页面](https://github.com/301Moved/ScienceDecrypting/releases)下载exe文件执行即可。
+在[Release页面](https://github.com/LonerUniverse/ScienceDecrypting_GUI/releases/tag/v1.0)下载exe文件执行即可。
 
 ### 选择二：使用源码文件
 1. 下载安装Python3 ( https://www.python.org/downloads/ )。
